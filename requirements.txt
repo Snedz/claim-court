@@ -1,0 +1,6 @@
+# Only the live-sandbox client and its test file need third-party packages.
+# The comparator, decision layer, gate, mock client and the demo are
+# Python standard library only.
+pydantic>=2.10
+requests>=2.32
+pytest>=8.0
